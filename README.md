@@ -13,7 +13,7 @@
 
 ### Input Image
 <!-- Replace with your input image -->
-![Input Image](DATA/toy.jpg)
+![Input Image](DATA/jewel.png)
 
 ### Depth Map + 3D Mesh Output
 <!-- Replace with your output video or gif -->
