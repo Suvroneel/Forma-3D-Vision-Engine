@@ -17,7 +17,7 @@
 
 ### Depth Map + 3D Mesh Output
 <!-- Replace with your output video or gif -->
-![Output Demo](RESULT/output3d-ezgif.com-video-to-gif-converter.gif)
+![Output Demo](RESULT/car_output.gif)
 
 ---
 
