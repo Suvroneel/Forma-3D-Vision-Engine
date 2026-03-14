@@ -13,7 +13,7 @@
 
 ### Input Image
 <!-- Replace with your input image -->
-![Image](https://github.com/user-attachments/assets/a6106c97-6cb2-4a1d-a4c4-d5e112dc00d0)
+![Image](DATA/car.jpg)
 
 ### Depth Map + 3D Mesh Output
 <!-- Replace with your output video or gif -->
