@@ -17,7 +17,7 @@
 
 ### Depth Map + 3D Mesh Output
 <!-- Replace with your output video or gif -->
-![Output Demo](RESULT/demo.gif)
+![Output Demo](![Image](https://github.com/user-attachments/assets/6e63cc26-7aa3-4e9c-a4a7-d7fa9d43cdc2))
 
 ---
 
